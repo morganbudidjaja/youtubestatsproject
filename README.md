@@ -5,7 +5,7 @@ It would be crucial to know where the pain point of the market is, so we can dis
 
 The data set studied is “Global Youtube Statistics 2023” posted on the website Kaggle. The set is updated annually on Kaggle based on data sourced from Social Blade. 
 This data pool includes the number of video views and subscribers, channel category, ranking, annual earnings, and country of origin for each of the top 995 YouTube channels. 
-The dataset enables the analysis of YouTube growth trends, category-based performance, demographic impact on viewership, and revenue potential for promoting our current and future content creators with success factors in the YouTube landscape.
+The dataset enables the analysis of YouTube growth trends, category-based performance, demographic impact on viewership, and revenue potential for promoting current and future content creators with success factors in the YouTube landscape.
 
 The following questions created an outline to answer our problem statement: 
 Which channels bring in and have the most growth in subscribers and views? 
